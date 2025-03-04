@@ -20,6 +20,7 @@ en la carpeta del proyecto
 
 ```bash
 cd nodejs-api-carrito
+npm install
 npm run start
 
 # Proyecto queda corriendo en http://localhost:3000
@@ -31,6 +32,7 @@ en la carpeta del proyecto
 
 ```bash
 cd react-carrito-compra
+npm install
 npm run dev
 
 # proyecto inicia en http://localhost:5173/
