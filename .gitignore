@@ -1,0 +1,14 @@
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+#ignorando carpeta node_modules
+nodejs-api-carrito/node_modules
+react-carrito-compra/node_modules
